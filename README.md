@@ -2,21 +2,21 @@
 
 ## halfadder
 
-<img src="./halfadder.png>
+<img src="./halfadder.png/">
 
 ## fulladder
 
-<img src="./fulladder.png>
+<img src="./fulladder.png/">
 
 ## addadder
 
-<img src="./add.png>
+<img src="./add.png/">
 
 ## incadder
 
-<img src="./incadder.png>
+<img src="./incadder.png/">
 
 ## ALU
 
-<img src="./ALU.png>
+<img src="./ALU.png/">
 
